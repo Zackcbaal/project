@@ -15,7 +15,7 @@ body {
   font-size: 16px;
   line-height: 20px;
   letter-spacing: 0.2em;
-  background: linear-gradient(180deg, #392657 0%, rgba(57, 38, 87, 0.8) 100%);
+  background: linear-gradient(180deg, #181083 0%, rgba(57, 38, 87, 0.8) 100%);
   color: #ffffff;
 }
 
@@ -201,7 +201,8 @@ ul {
 }
 
 .skill__info {
-  width: 150px;
+  width: 500px;
+  /*150*/
 }
 
 .skill__button {
